@@ -1,0 +1,18 @@
+Kimden: yavuzyildiz@gmail.com
+Kime: egezeybek@yahoo.com
+
+Konu: txt uzantýlý resimler
+
+> txt dosyalarý fotoðraf dosyasý deðil metin
+> dosyasýdýr. eðer birisi bilerek
+> uzantýlarýný deðiþtirmiþse uzantýsýný kontrol amaçlý
+> .jpg .bmp yaparak
+> fotoðraf formatýna dönüþtüp herhangi bir fotoðraf
+> editörü ile açabilirsin.
+> Eðer elinde bu dosyalardan çok sayýda varsa ve
+> uzantýlarýný tek tek
+> deðiþtirmek uzun zaman alacaksa the rename isimli
+> programla istediðin kadar
+> dosyanýn uzantýsýný yarým dakika içinde
+> deðiþtirebilirsin. umarým bu
+> bilgiler iþini görür.

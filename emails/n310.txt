@@ -1,0 +1,14 @@
+Kimden: osman.baylan@gmail.com
+Kime: egezybek@yahoo.com
+
+Konu: internetinizi %20 hýzlandýrýn
+
+merhaba arkadaþlar,
+þu an kullandýðýmýz adsl baðlantý hýzlarýnýn sadece %80 ini kullanýyoruz. geri kalan %20 lik bölümünü windows kendisi için ayýrýyor.%20 lik bölümü de kullanmak
+istiyorsanýz aþaðýdaki yöntemleri uygulayýn.ben denedim gerçekten fark var.
+baþlat menüsünden çalýþtýra giriþ yapýn ve
+gpedit.msc
+yazýn.açýlan pencerede yerel bilgisayar ilkesinden bilgisayar yapýlandýrmasý ardýndan yönetim þablonlarý ve oradan da að bölümüne gelin.að bölümünü açtýktan
+sonra qos paket zamanlýyýcýsýna giriþ yapýn.karþýnýza bir liste çýkacak.o listede ayrýlabilir band geniþliðini sýnýrla seçeneðine giriþ yapýn.açýlan pencerede
+seçim kutusundan etkinleþtirin ve sýnýrý 20 den 0 a düþüürp uygula tamam diyin.ve artýk internet baðlantýnýz %20 artacak.
+saygýlarýmla

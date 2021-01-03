@@ -1,0 +1,26 @@
+Kimden: erdal1941@yahoo.com
+Kime: egezeybek@yahoo.com
+
+Konu: Rapidden indirirken yapýlacak bir kurnazlýk
+
+> Sevgili Arkadaþlar,
+> Benim gibi Rapidshare premium üye olmayan arkadaþlar
+> dikkat ettiyseniz 2 indirme arasýna bazen 3 saat
+> civarýnda süre koyuyor. Bu süre dikkat ettim;
+> indirdiðiniz dosyanýn boyutu ile ilgili 95 MB. bir
+> dosya indirdikten sonra araya 200, dakikya yakýn bir
+> bekleme süresi giriyor. Ama 50 MB. bir dosya
+> indirdikten sonra bekleme süresi 60 dakika civarýnda
+> oluyor.
+> Varsayalým ki 95 MB. dosyayý 1 saatte, 50 MB.
+> dosyayý ise 35 dakikada indiriyoruz. Bu durumda önce
+> 95 sonra da 50 MB. lýk dosyayý indirirsek toplam
+> indirme süresi:
+> 60+200+35=295 dakika oluyor. Ama önce 50 MB. dosyayý
+> indirirsek toplam indirme süresi 35+60+60=155 dakika
+> oluyor. Yani dosyalarý indirme sýrasýný küçükten
+> büyüðe doru sýralarsak 140 dakika kazancýmýz oluyor.
+> Bunun daha yeni farkýna vardým. Ýsterseniz siz de
+> bir deneyin deneyin.
+> Sevgilerimle.
+> Erdal

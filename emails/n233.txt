@@ -1,0 +1,31 @@
+Kimden: egezeybek@yahoo.com
+Kime: alternatif_hayat@yahoo.com
+
+Konu: Dolandýrýlmamaya Karþý Basit Ama Etkili Yollar
+
+Yeni Kullanýcýlar için Ýnternet’te Dolandýrýlmamaya Karþý Basit Ama Etkili Yollar
+
+Kaspersky Lab uzmanlarý dolandýrýcýlýðýn internet olduðu müddetçe devam edeceðini bu nedenle de kullanýcýlarýn kendilerini korumasý gerektiðini söylüyor.
+
+Özellikle yeni kullanýcýlarýn kendilerini Ýnternet ortamýndan gelecek tehlikelere karþý korumasýnýn çok önemli olduðunu belirten Kaspersky Lab Türkiye Genel Müdürü Murat Göçe, dolandýrýcýlýðýn Ýnternetin her alanýnda, e.posta, sosyal aðlar ve çeþitli web siteleri gibi kullanýcýlarýn karþýsýna çýkabileceðini dile getiriyor. Murat Göçe yýllar içerisinde siber suçlularýn yeni taktikler ürettiðini ancak scamlerin halen ayný olduðunu söyleyerek, kullanýcýlarýn sanal ortamdaki güvenliklerini sadece kendilerinin saðlayabileceðinin altýný çizdi.
+
+Ýnternet dolandýrýcýlýðýný virüs, Trojan, casus yazýlým, SMS engelleme veya spam gibi diðer Ýnternet tehlikelerinden ayýran tek özellik siber suçlularýn hedefinin bilgisayar deðil, insan olmasý. Bu nedenle hiçbir programýn kullanýcýsýna yüzde 100 koruma saðlamasý maalesef mümkün deðil. Bu nedenle kullanýcýlarýn bizzat kendi çevrimiçi güvenliklerini garanti altýna almalarý ve buna uygun hareket etmeleri oldukça önemli.
+
+Ýnternet dolandýrýcýlýðýnýn tarihi internetin kullanýlmaya baþlandýðý ilk dönemlere kadar uzanýyor ve paralel bir geliþim gösteriyor. Ýnternet dolandýrýcýlýðýnda ise her yýl siber suçlular potansiyel kurbanlarýný yeni teknikler ve taktiklerle kandýrmak için ortaya çýkýyor. En çok baþvurulan yollar arasýnda ise önceliði þunlar alýyor:
+
+1. E-dolandýrýcýlýk: E-dolandýrýcýlýk kapsamýna bankalardan gelen sahte bildirimler, elektronik ödeme sistemleri, e.posta tedarik eden kimseler, sosyal aðlar ve online oyunlar gibi pek çok farklý baþlýk giriyor. Bu gibi e.postalarýn amacý kiþilerin kullanýcý adý ve þifresi gibi kiþisel bilgilerini ele geçirmek. E-bankacýlýk dolandýrýcýlýðý, internet bankacýlýðý hesaplarýna veya elektronik ödeme bilgilerine ulaþmak için kullanýlan en yaygýn dolandýrýcýlýk yollarýndan biri.
+2. Piyango talihlisi olduðunuza dair gelen sahte bildirimler: Bu tarz e.postalar kullanýcýnýn ikramiye kazandýðýný iddia eden e.postalardýr. Dolandýrýcýlar bu tarz e.postalar ile kiþileri tuzaða düþürüp, kazanýlan ödülün transfer edilebilmesi için kullanýcýdan paranýn bir kýsmýný talep eder.
+3. Saadet zinciri ve kolay para kazanma fýrsatý: Bu tarz dolandýrýcýlýkta daha çok kiþilerin az para yatýrarak büyük paralar kazanacaklarý söylenir. Ancak sonuçta herhangi bir kazançlarý olmaz.
+4. Online dilencilik: Bu gibi e.postalar hayýr kurumu veya ihtiyacý olan kimselerden gelmiþ gibi görünen e.postalardýr. Bu e.postalar asýl organizasyon ve kurumlara doðrudan link ile baðlý görünmesine raðmen, kullanýcý ödeme detaylarýna geldiðinde transfer edilen para dolandýrýcýlarýn elinde son bulur.
+5. Ýstenmeyen e-posta kullanýlarak saðlanan SMS mesajý dolandýrýcýlýðý: Bu tarz dolandýrýcýlýklarda kullanýcýlarýn belirlenen kýsa bir numaraya SMS göndermelerini saðlamak amacýyla birçok taktik uygulanýr. Bu gibi istenmeyen mesajlara belirli linkler içeren e.postalar da dâhildir. Kullanýcýlardan, linke týklayarak iddia edilen servisten yararlanabilmeleri için belirlenen kýsa numaraya SMS gönderimi yapmalarý istenir. Ancak sonunda kullanýcýlar kendilerini var olmayan bir servis için ödeme yapmýþ halde bulurlar.
+
+Yukarýda belirtilen tehlikelere karþý kiþisel olarak alýnmasý gereken 8 kolay önlem ise þunlar:
+
+1. Antivirüs programý kullanmak.
+2. Güncellemeleri düzenli olarak yapmak.
+3. Kiþisel bilgileri açýk kaynaklarý kullanarak paylaþmamak.
+4. Bilinmeyen veya güvenliðinden emin olunmayan sitelerden herhangi bir þey indirmemek.
+5. Þüpheli spam e.posta olarak duran linklere týklamamak.
+6. Kullanýcýsýndan emin olunmayan e.posta uzantýlarýný açmamak.
+7. Spam’den ‘üyelikten çýkmayý’ denememek (özellikle de email ‘üyelikten çýkýn’ linki varsa).
+8. Özellikle kolay para vaat eden ve çok cazip tekliflerin tuzaðýna düþmemek.

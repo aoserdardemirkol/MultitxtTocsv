@@ -1,0 +1,19 @@
+Kimden: okuyan07@gmail.com
+Kime: egezeybek@yahoo.com
+
+Konu: bilgisayarların birbirini görmesi-benzer sorunum var
+
+herkese selamlar,
+>     sizlere bir sorum olacak: aynı modem üzerinden
+> farklı portlar kullanılarak veya swech yardımıyla
+> birden çok bilgisayarın birbirini görmesi
+> sağlanıyor, fakat aynı modem üzerinden
+> bilgisayarların birisi usb portundan kablolu biçimde
+> internetten yararlanırken diğeri modemin kablosuz
+> internet erişim özelliğini kullanarak aynı
+> internetten faydalanıyor, bu 2 bilgisayar birbirini
+> görebilirmi? yani kablolu bağlantıda olduğu gibi ağ
+> üzerinden paylaşımda bulunabilirlermi? sonuçta
+> birtanesi kablosuzda olsa aynı modem üzerinden
+> interneti alabiliyorlar. 
+>     ilgilenirseniz sevinirim, herkese sevgiler.

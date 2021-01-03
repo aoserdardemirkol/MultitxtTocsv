@@ -1,0 +1,152 @@
+Kimden: sinanakti@gmail.com
+Kime: egezeybek@yahoo.com
+
+Konu: 55 soruda 55 cevap
+
+ 55 soruda 55 cevap
+Bilgisayarda çalýþýrken, film seyrederken, Ýnternette sörf yaparken yada yeni aldýðýnýz bir donanýmý takarken en çok karþýlaþtýðýnýz kronik sorunlarýn çözümlerini bu dosyamýzda bulabilirsiniz. 
+
+Bilgisayarlar, donaným ve kullandýðýmýz yazýlýmlarýn bütününden oluþuyor. Bir bilgisayarýn donanýmý kusursuz çalýþsa bile, yüklenen yazýlýmlarýn hatalarý ya da donanýmla uyumlarý sorun yaratabiliyor. Kusursuz, týkýr týkýr çalýþan bir bilgisayar idealden baþka bir þey deðildir. Bilgisayar kullanýrken sorunlarla karþýlaþmak çok doðaldýr.Sorunlarla karþýlaþtýðýnýzda paniðe kapýlmayýn, verilerinizi kaybetmediðiniz sürece bilgisayarýnýza zarar verecek ya da çözülmeyecek hiçbir sorun yoktur. Bu ay merak edilen 55 sorunun çözümlerini derledik, iþte yazýlým, donaným, internet ve Windows'la ilgili en çok karþýlaþýlan 55 sorunun 55 çözümü: 
+
+1) Bilgisayarým açýlýrken, eksik DLL dosyasý olduðunu belirten bir hata ile karþýlaþýyorum. Sorunumu nasýl çözebilirim? 
+DLL dosyalarý Windows ve yüklediðiniz yazýlýmlarla ortak olarak kullanýlan dinamik kütüphane dosyalarýdýr. Sistemden bir yazýlým kaldýrýldýðýnda, DLL dosyalarýndan bir ya da birkaçý silinebilir. Bu durumda, hata mesajýnda belirtilen DLL dosyasýný www.drd. dyndns.org/search.html adresinde aratarak indirin. Bu dosyayý Windows altýndaki System klasörüne kopyalamanýz sorunu çözecektir. 
+
+2) Sabit diskimde tek bir bölüm var. Varolan verilerimi kaybetmeden nasýl yeni bölüm oluþturabilirim? 
+FDISK kullanarak bunu yapmak olanaksýz. Sabit disk bölüm yöneticisi yazýlýmýna ihtiyacýnýz var. Bu gibi yazýlýmlar arasýnda kullanýmý en kolay olaný Partition Magic Pro'dur. Bu yazýlýmý www.powerquest.com adresinden temin edebilirsiniz. 
+
+3) Windows XP kullanýyorum ve sistemimde bolca RAM var. Bu belleðin bir kýsmýný sabit disk gibi kullanabilir miyim? 
+Yeterli miktarda RAM olduðu sürece yeni bir sabit disk sahibi olmanýn en ucuz yolu, bir sanal sürücü yazýlýmýdýr. Bu iþi yapabilen araçlar arasýnda en iyi örneklerden biri RamDisk'tir. Ramdisk, Windows XP Home/Professional, Windows 2000 ve NT sürümlerinde çalýþabiliyor. Bu yazýlýmý www.superspeed.com adresinden indirebilirsiniz. 
+
+4) USB portuna baðladýðým bazý donanýmlar, sürücüleri hatasýz olmalarýna raðmen çalýþmýyor ya da keyfine göre çalýþmayý reddediyor. 
+USB yeterliliðine sahip cihazlar çalýþmalarýný saðlayacak elektrik enerjisini de USB portundan saðlarlar. Ýþletim sistemi ve sürücülerde bir sorun olmadýðý halde bazý USB cihazlarýn çalýþmamasý ya da belirli USB cihazlarýn çalýþmamalarýnýn nedeni güç eksikliði olabilir. 
+
+5) Bir dosyayý geri dönüþüm kutusuna göndermeden yanlýþlýkla silsem ya da yanlýþ dosyayý ayný isimle kaydetsem, nasýl geri çaðýrýrým? 
+Windows altýnda normal yollarla bu gibi kayýplarý gidermek mümkün deðil. Bir veri kurtarma yazýlýmý kullanmanýz gerekir. En iyi veri kurtarma yazýlýmlarýndan Media Tools ( www.atldatarecovery.com) ya da Easy Recovery Proffessional'ý ( www.ontrack.com) kullanabilirsiniz. Bu iki yazýlýmdan birini çalýþtýrdýðýnýzda kurtarabileceðiniz yüzlerce dosya göreceksiniz. Dosyanýn ismini bilmeniz, kurtarma iþleminin süresini oldukça kýsaltacaktýr. 
+
+6) Windows 95/98/Me altýnda sorun çýkarmayan harici modemimi Windows XP'de kullanýyorum. Sistemi yeniden baþlattýðýmda modem ortadan kayboluyor. 
+Bunun sebebi, Windows XP sürücülerinin yüklenmemesi ya da yüklenen sürücülerin problemli olmasýdýr. Sistemi yeniden baþlattýðýnýzda modemi düðme ya da anahtarýndan açýp kapatýn. Sistem altýnda Donaným yöneticisine girip Bilgisayarým üzerinde sað týklayýp 'Donaným deðiþikliklerini tara'ya girin. Windows XP modemi tanýyacaktýr. Yaramazsa, bir de modemin kablosunu çýkartýp takmayý deneyebilirsiniz. 
+
+7)Windows XP kurulum sýrasýnda bileþen seçimine izin vermiyor ve kurduktan sonra Program Ekle/Kaldýr altýnda kaldýrýlacak doðru düzgün bir Windows bileþeni göremiyorum. En azýndan yüklü bileþenlerin hepsini görmenin yolu var mý? 
+Evet bunun bir yolu var. Windows XP'yi kurduðunuz klasöre (C:\Windows gibi) girerek INF klasörünü açýn. Sysoc.inf dosyasýný bulun ve sað tuþla týklayarak Notepad ile açýn. CTRL+H tuþuyla Bul/Deðiþtir kutusunu açýn. Deðiþtirilecek kelime kutusuna 'hide' girin. Diðer kutuyu boþ býrakarak tüm 'hide' kelimelerini kaldýrýn. Sistemi yeniden baþlatýnca Program Ekle/Kaldýr altýnda daha fazla bileþen olacaktýr. Dikkat! Bilmediðiniz bileþenleri kaldýrmayýn, sonradan çok üzülebilirsiniz. 
+
+8) Sistemi açtýðýmda BIOS sýfýrlanýyor. 
+Anakart üzerinde BlOS'un üzerine yazýlan bilgilerin saklanmasý amaçlý bir pil bulunur. Diðer þarj edilebilen piller gibi BIOS pilinin de belirli bir ömrü olmasýna ek olarak, güç kaynaðýna uzun süre elektrik gelmezse pil þarj edilemediði için BIOS sýfýrlanýr. Elektrik kesintisi gibi kýsa süreli güç kaybý BIOS'u sýfýrlýyorsa, pil sorunludur ve deðiþmesi gerekir. Eðer güç kaybý olmadan sistem açýlýþýnda BIOS sýfýrlanýyorsa, anakart kullaným kýlavuzuna baþvurarak BIOS sýfýrlamak için kullanýlan jumper ayarlarýný kontrol edin. 
+
+9) Ýkiye bölünmüþ, üzerinde Windows 98 kurulu bir sabit diskim ve bolca bos alaným var. Bu sabit disk üzerinde 98'e ek olarak Windows XP ve Süse Linux de kullanmak istiyorum. 
+Varolan iþletim sistemini de kullanmaya devam ederek Windows XP ve Linux kurmak için ilk olarak yeni bir bölüm yaratmanýz gerekir. FDISK ile mevcut bölümü silmeden yeni bölüm açmayacaðýnýz için, ilk olarak sabit disk bölümlendirme yazýlýmý kullanarak diski üçe ayýrýn. Windows XP'yi ikinci bölüme kurduðunuzda açýlýþta iþletim sistemi seçenekleri çýkacaktýr. Son bölüm üzerine Linux kurduðunuzda ise Lilo'yu MBR'ye yazdýrýn. Açýlýþta ilk olarak Lilo yüklenecek ve Linux/Windows geçiþ seçeneði sunulacaktýr. 
+
+10) Outlook Express kullanýyorum. Elektronik posta mesajlarýmda | bolca yazým hatasý var. Bunu nasýl engellerim? 
+Eðer sisteminizde Türkçe Microsoft Office yüklüyse, elektronik postalarý yazým hatalarýna karþý denetleyebilirsiniz. Bunun için Tools>Options>Spelling altýndan Always Check Spelling kutusunu iþaretleyin. Daha sonra da alt 
+kýsýmda bulunan Dictionary kutucuðundan Türkçe'yi seçin. Bu iþlemden sonra Outlook Express her elektronik posta yolladýðýnýzda otomatik olarak yazým hatalarýný kontrol etmeye baþlayacaktýr. 
+
+11) Windows KP'nin CD yazma iþlemini nasýl hýzlandýrabilirim? 
+Windows XP yazýlacak verileri belirli bir klasöre kopyaladýktan sonra CD'ye yazar. Eðer CD'ye kopyalayacaðýnýz dosya ve klasörler Windows XP'nin kurulu olduðu bölümdeyse, sözkonusu veriyi kesip (CTRL+X), C:\Documents and Settings\(Kullanýcý Adý)\Local SettingsVApplication Data\Microsoft\CD Burning klasörü altýna yapýþtýrýn (CTRL+V). Dikkat! CD yazma iþlemi bitince XP size bu dosyalarý ne yapacaðýnýzý soracaktýr, iþletim sisteminin bu dosyalarý saklamasýný istemezseniz, silineceklerdir. 
+
+12) IE 6.0 kurdum. IE, sayfadan daha büyük bir resim görüntülemek istediðimde otomatik olarak pencereye sýðdýrýyor. Bunu nasýl engellerim? 
+Resim tam olarak yüklenip sayfaya sýðdýrýlacak boyutlara indirildiðinde fareyi resmin üzerinde kýsa bir süre bekletin. 
+Fare imlecinin yanýnda beliren buton ile resmi orijinal boyutlarýna getirebildiðiniz gibi, ayný butonu kullanarak IE 6.0'ýn 'Enable Automatic Image Resizing' özelliðini kapatabilirsiniz. 
+
+13) Ayný evde ya da apartmanda bulunan iki bilgisayarý birbirine baðlayarak üreticiliði artýran uygulamalar (Quake 3 gibi) çalýþtýrmak istiyorum. Bunu ne þekilde ve hangi parçalarla yapabilirim? 
+Bunun en kolay yolu, ilk olarak að yapýlandýrmasý daha basit olan Windows XP Professional kurmaktan geçer. Daha sonra ise iki adet Ethernet kartý ve hub'sýz baðlantý için Category 5 Crossover kablosuna ihtiyacýnýz olacak. Bu malzemeleri bir bilgisayar maðazasýndan bulabilirsiniz. 
+Accesories-Communications-Setup Small Office Home Networking sihirbazýný çalýþtýrýn. Ayrýntýlarýný vermeye gerek olmayan birkaç basit adýmdan sonra, yaratýlan disketi diðer bilgisayarda çalýþtýrarak kýsa bir süre içinde iki sistemi birbirini görebilir hale getirebilirsiniz. 
+
+14) Ýki bilgisayarý Ethernet ve Icablo ile birbirine baðladým. Sistemlerin birinde modem yok. Her iki PC'den de Ýnternet'e girilebilmesi için ne yapmam gerekiyor? 
+Önceki çözümde (13) bulunan açýklama bu soru için de geçerlidir. Tek fark, sözkonusu disketin modem bulunan sistemde hazýrlanmasý zorunluluðu olacaktýr. Yarattýðýnýz bu disketi Windows XP, Windows ME ve Windows 98 SE çalýþtýran sistemlerde kullanabilirsiniz. 
+
+15) Linux için sürücü aramaktan yoruldum. Bu sürücülerin ya da en azýndan linklerinin bulunduðu bir site var mý? 
+Evet, bu hizmeti veren birçok site mevcut. Ýþte en meþhurlarýndan biri: www.linuxbasis.com/drivers.html Yine de, her donaným sürücüsünü üretici firmanýn sitesinden indirmek en iyi yoldur. Farklý bir siteden indirdiðiniz dosyalarýn içinde donaným sürücülerinden daha fazlasýnýn olmadýðý garantisini kimse vermez. 
+
+16) Windows 95/98/Me ve kablo modem kullanýyorum. Bazen baðlantý kýsa bir süreden sonra kopuyor. Modem tekrar online olduðunda ise veri transferi yapmamaya baþlýyor. Bilgisayarý yeniden baþlatýnca bile sorun çözülmüyor. 
+Temel sorun bilgisayarýnýzýn ÝP alýp almamasýdýr. Ýþletim sisteminiz NT ya da üstü olsaydý DHPC sunucusundan kolaylýkla bir ÝP alabilirdi, ancak Windows 95/98/Me'de bu sorunla karþýlaþmak bazen kaçýnýlmazdýr. Modemin fiþini çekin ve bilgisayarýnýzý kapattýktan sonra modemi açýn. Modemin online olmasýný bekleyin ve Activity lambasýnda bir hareket gördüðünüzde bilgisayarýnýzý açýn. Baðlantýnýz yenilenmiþ ve geçerli bir ÝP aldýðýnýzý göreceksiniz. Ýþletim sisteminizi Windows XP ya da 2000 Professional'e yükseltmeniz ise kökten çözümdür. 
+
+17) Windows XP kurduðumdan bu yana bir çok IE güncellemesi yapmýþtým. XP'yi yeniden kurduðumda, IE için bu güncellemeleri yüklemek için daha kolay bir yol var mý? 
+Microsoft 15 Mayýs'ta internet Explorer için þu güne kadar çýkartýlan tüm güncellemeleri tek bir dosya olarak toplayarak yayýnladý. 5.0 dan 6.0'a kadar eksiksiz güncelleme yapan bu dosyayý tek baþýna indirmeniz ve kurmanýz yeterli. Dosyayý aþaðýdaki adreste bulabilirsiniz: http://www.microsoft.com/windows/ie/...ds/critical/Q3 
+21232/default.asp 
+
+18) Windows ME üzerinde lE'yi her açtýðýmda 'An Error Occurs in Mshtml.dll in internet Explorer 6' mesajý alýyorum. Bu sorunu nasýl çözebilirim? 
+Bu sorun tek bir dosyadan kaynaklanan basit bir hata ancak internet Explorer'ý kullanmanýzý tümüyle etkiliyor. 
+Sorun þu; IE 6.0 mshtml.dll dosyasýnýn 6.0.2600.0 sürüm numaralý derlemesine ihtiyaç duyuyor fakat sizin yüklediðiniz 6.0 paketi biraz eski bir derleme. Bu durumda sürümü daha yeni bir internet Explorer paketi ile güncellerseniz, sorun giderilecektir. 
+
+19) Windows 98 SE çalýþtýran sistemimdeki bir yazýlýmý kaldýrdýktan sonra yeniden baþlattým. Sistem açýlýrken bir VXD hatasý veriyor ve kilitleniyor. 
+Bilgisayarýn öncelikle neden kilitlendiðini bulmalýyýz. Bunun için Windows'u F8 ile baþlatarak listede Adým Adým Onayla seçeneðini seçip devam ederek, hepsine Evet diyerek sistemin hangi iþlemden sonra kilitlendiðini bulmalýsýnýz. 
+Sistemi kilitleyen iþlemi belirledikten sonra Windows'u Güvenli Kip ile baþlatýn. 'Baþlat'tan 'Çalýþtýr'ý seçin ve kutucuða 'msconfig' girin. Açýlacak pencerenin en saðdaki tabýnda baþlangýçta çalýþtýrýlan yazýlýmlarýn listesini göreceksiniz. Sorunlu yazýlýmla ilgili satýrdaki iþareti kaldýrýn ve Tamam diyerek çýkýn. Bilgisayarýnýzý yeniden baþlattýðýnýzda problem çözülecektir. 
+
+20) Windows 2000 Professional kullanýyorum. DVD seyretmek istediðimde winDVD 'Create Overlay failed. Please lower screen resolution ör color depth and try again' hatasý verdi. 
+Problem büyük ölçüde yazýlýmda bulunan bir Windows 2000 Pro hatasýndan kaynaklanýyor. Öncelikle baþka bir kullanýcý hesabý ile sisteme girmeyi ve WinDVD'yi çalýþtýrmayý deneyin. Yazýlým çalýþýrsa, bilgisayarý yeniden baþlatarak eski kullanýcý adýnýzla giriþ yaptýðýnýzda sorun çözülecektir. 
+Bu iþe yaramazsa, bir önceki problemdeki adýmlarý izleyin. Böylece 3D oyunlarý oynayamasanýz bile, DVD izleyebilirsiniz. 
+
+21) Windows 98 altýnda ne zaman Dreamweaver yüklesem, bilgisayar donuyor ve sistemi yeniden baþlatmak gerekiyor. Program baþka bilgisayarlarda sorunsuz çalýþýyor. Bunu nasýl hallederiz? 
+Ýlk olarak ekran kartý sürücünüzü güncelleyin. Sorun çözülmezse, 'Bilgisayarým' simgesi üstüne sað tuþa týklayýn, 'Özellikler'! seçin ve açýlan pencereden Performans sekmesine geçin. Dört kademeli hýzlandýrýcý barýný öncelikle bir kademe düþürüp sisteminizi yeniden baþlatýn. Bu iþe yaramazsa daha düþük kademeleri deneyin. Unutmayýn, bu ayafl düþürmek ya da kapatmak ekran kartýnýzýn birçok özelliðinden yararlanmanýzý engelleyecektir. 
+
+22) Windows 98 ve IE 5.5 kullanýyorum. Bazý sayfalarý açmaya çalýþtýðýmda 'A Runtime Error has occurred. Do you wish to DEBUG Line=0 Error = Object Expected' hatasýný alýyorum. 
+Bu sorun çoðunlukla popup reklamlarý engelleyen programlar kullanýldýðýnda oluþan bir hatadýr. Yapmanýz gereken, IE Araçlar mönüsü içinden internet seçeneklerine girmek ve Geliþmiþ sekmesindeki listeden 'Komut dizini hata ayýklamasýný devreden çýkart1 seçeneðini iþaretlemek. Tüm açýk tarayýcý pencerelerini kapatýp yeniden çalýþtýrdýðýnýzda sorun çözülecektir. 
+
+23) Bu Messenger programýnýn açýlýþta baþlamasýndan sýkýldým. Bundan kurtulmanýn bir yolu var mý? 
+Messanger'ý kaldýrmak için Baþlat'tan Çalýþtýr'ý týklayýn ve aþaðýdaki satýrý aynen kopyalayýn. Tamam tuþuna basýn. Yazýlým kaldýrýlacaktýr. Bilgisayarýnýzý yeniden baþlatýp baþarýlý olup olmadýðýný test edebilirsiniz. Diðer yandan bu karýþýk komutu girerken hata yapmaktan korkuyorsanýz bu iþi sizin yerine yapabilecek olan Tweaking Toolbox XP yazýlýmýný kullanabilirsiniz: www.windowshelp.net/ttwxp 
+RunDlBl advpack.dll,LaunchINFSection %windir%\INF\msmsgs.inf, BLC.Remove 
+
+24) Sabit disklerim FAT32 formatlý ve Windows 98 kurulu. |Windows XP yüklesem, ama Çbunu sadece birinci bölümde lyapsam, yani sadece orayý j NTFS'e dönüþtürsem, XP açýlýnca Win32 dizinleri de görür mü? 
+Sadece ilk dizini formatlayýp, buraya XP kurmanýz ve diðer dizinleri taramanýz mümkün. Windows XP FAT16 ve FAT32'yi destekliyor. Ama, eðer düþünceniz NTFS'in daha güvenli olduðu ise, evet haklýsýnýz; tümüyle NTFS'e geçmenizi öneririz. 
+
+25) Sörf yaparken girdiðim bir sitedeki web sayfasýnda ya da pencerede sabit diskimin içindeki dosyalar görünüyor. Bu dosyalarýn kopyalanmalarý ya da silinmeleri mümkün mü? 
+Sabit diskinizi kopyaladýk demeleri tamamen yalan. Bu sitedeki düðmelere týkladýðýnýzda tek yapýlan þey, tarayýcý penceresinde sabit diskinizin gösterilmesi, ancak bunu sadece siz görebilirsiniz. O siteyi hazýrlayan kiþi ya da baþkabiri göremez. Yine de içinizin rahat etmesini istiyorsanýz, ZoneAlarnm Pro ( www.zonelabs.com) gibi bir kiþisel güvenlik duvarý yazýlýmý kullanmanýzý öneririz. 
+
+26) Windows 98 üzerinde Creative Soundblaster Live! Value kullanýyorum. Açýlýþta 'error: Memory manager not detected. Creative SB16 emulation driver requires EMM386 or similar Creative SB16 emulation driver not loading' hatasý ile karþýlaþýyorum. 
+Ses kartýnýzýn Sound Blaster 16 emülasyonu yapabilmesi için gerekli dosyalarýn yüklenmesinde hata var. Aslýnda çok eski DOS oyunlarý oynamadýðýnýz sürece buna gerek yoktur. 
+Denetim Masasý altýndan donanýmlar arasýnda Creative Miscellaneous Devices'ý geniþletin, Creative SB16 emulation'ý seçin. 
+Üzerine çift týklayarak Properties (Özellikler) sayfasýný açýn. Disable in this hardware profile (bu aygýtý kullanma) seçeneðini seçin ve OK'e (Tamam) týklayýn. Bunu yaptýktan sonra Autoexec.bat ve Config.sys dosyalarýndan SB 16 emülasyonuyla ilgili satýrlarý silebilirsiniz. 
+
+27) Proxy sunucusu ne iþe yarar ve kullanmam gerekli midir? 
+Proxy, web tarayýcýsý gibi istemci uygulamalar ile gerçek bir sunucu arasýnda duran bir sunucudur ve yazýlým ve/veya donaným tabanlý olabilir. Genellikle, iþyeri aðlarýnda ya da servis saðlayýcýlar tarafýndan kullanýlýr. Gerçek sunucuya yapýlan talepleri proxy deðerlendirir ve bu talepleri yerine getirmeye çalýþýr. 
+Talebi kendisi karþýlayamazsa, gerçek sunucuya iletir. Proxy sunucularýn iki temel iþlevinden ilki talep edilen dosyalarý önbelleðe (cache) alarak sayfa indirilmesindeki performansý artýrmaktýr. Diðeri ise bazý web sitelerine eriþimi engellemektir. Kýsacasý, Proxy sunucular performans artýþý saðlarken eriþim kýsýtlamasý getirebileceði için karar size kalýyor. 
+
+28) Ben ses kayýt edebilen ve çalabilen bir program arýyorum. 
+Size dbpoweramp isimli programý rahatça önerebiliriz (www.dbpoweramp.com/dmc.htm) . Bu program, pek çok ses formatýný birbirine dönüþtürebiliyor ve çeþitli ses kaynaklarýndan (line in, mikrofon, vs.) kayýt yapabiliyor. Bu sitedeki Auxiliary Input addon'unu da indirmeyi unutmayýn. 
+Müzik dosyalarýný çalmak için, dBpowerAMP Audio Player'ýný (www. dbpoweramp.com/dbpoweramp.htm) ya da WinAMP'ý (www.winamp.com) kullanabilirsiniz. 
+
+29) Tüm masaüstümün ya da sadece bazý pencereleri Mpeg/Avi formatýnda kaydetmek istiyorum. 
+Monitörden AVI formatýnda görüntü kaydetmek için HyperCam isimli programý kullanabilirsiniz. Bu programý www.hyperionics.com adresinde bulabilirsiniz. Program shareware'dir; böylece bir süre deneyebilirsiniz. 
+
+30) Bilgisayanmdaki farklý MpegAvi uzantýlý filmleri birleþtirmek istiyorum. Bunun için hangi yazýlýmý kullanabilirim? 
+Mpeg dosyalarýný birleþtirmek için Camel MPegJoin isimli programý kullanabilirsiniz. Bu programý çekebileceðiniz adres þu: member.newsguy.com /theprof 
+
+31) Web sitemde menü düðmelerinin üzerine gidildiðinde rengin deðiþmesini Ýstiyorum. Bunu nasýl yaparým? 
+Bunun için JavaScript, Flash, DHTML gibi pek çok farklý teknik kullanýlabilir:, www.webteknikleri.com adresinde bu konuyla ilgili yazýlar bulabilirsiniz. Daha kolay bir yol, gereken kodu görsel olarak üretebileceðiniz araçlarý kullanmaktýr. Bu araçlar arasýnda JavaScript kullanarak renk deðiþtiren düðmeler hazýrlayabileceðiniz ve ücretsiz olan Mouseover Button Wizard ( www.mobw.net) sayýlabilir. Dreamweaver, FrontPage ya da Fireworks gibi web geliþtirme araçlarýnda da bu özellik yerleþik olarak bulunmaktadýr. 
+
+32) Bazý AVI dosyalarýný Media Player ile açmaya çalýþtýðýmda, codec sunucusuna baðlanmaya çalýþýyor ve baðlansa bile dosya türünün desteklenmediði mesajýný veriyor. Filmi arkadaþýmýn sisteminde izleyebilmiþtim. Sorun nedir ve nasýl çözebilirim? 
+Windows Media Player bazý açýk kaynak kodlu, özellikle de Mpeg4 varyantý codec bileþenlerini desteklememe eðilimi gösterdiðinden, sözkonusu AVI dosyalarýný çalýþtýrmaz. Bunu yapmak için ilk olarak AVI dosyasý üzerine sað tuþla týklayarak özelliklerine gözatýn ve hangi codec bileþeni ile kodlandýðýný öðrenin. Daha sonra bir arama motorunda codec ismini aratabilir ve sisteminize kurabilirsiniz. 
+
+33) Ýnternet'e nasýl daha hýzlý baðlanabilirim? 
+Su anda birçoðumuzun kullandýðý 56K modemler dýþýnda, Türkiye'de Ýnternet'e daha hýzlý baðlanmanýzý saðlayan seçenekler var. Kiralýk hat, maliyetleri nedeniyle ev kullanýcýsýna uygun olmadýðýný belirtelim. Kablo TV , ADSL, uydu ve ISDN üzerinden hýzlý Ýnternet'e sahip olmak mümkün. 
+
+34) ADSL üzerinden Ýnternet'e baðlanmak için ne yapmalýyým? 
+ADSL teknolojisiyle Ýnternet'e baðlanmak için abone.ttnet.net.tr /adsl adresinden, bulunduðunuz yerde Türk Telekom'un ADSL hizmeti verip vermediðini kontrol edin. Bulunduðunuz yerde ADSL hizmeti veriliyorsa bile, 'port'lar dolu olduðu için Türk Telekom'dan beklemeniz gerektiði cevabýný alacaksýnýz. Kýsacasý bos port bulmak çölde kutup ayýsý avlaya benziyor. 2002 yýlý baþýnda, Türk Telekom'dan 2 milyon ADSL port'u açýlacaðý duyurulmasýna raðmen, henüz bu konuda bir geliþme yok. 
+
+35) ISDN nedir? 
+ISDN, Integrated Services Digital Network kelimelerin baþ harflerinden oluþmuþ bir kýsaltmadýr. ISDN ile ses, görüntü ve veriler sayýsal olarak birleþtirilip ayný hat üzerinde taþýnmasý saðlanýr. Tasýma iþlemi sayýsal olarak yapýldýðý için hata oraný düþük, ama kaliteli bir iletiþim yöntemi olarak tanýmlayabiliriz. Türk Telekom'un ISDNBRI ve ISDN PA olmak üzere iki farklý ISDN hizmeti var. ISDN Basic Rate Interface, 2 adet 64 Kbit'lik bilgi kanalý içerir. ISDN Primary Access'deyse, her biri 64 Kbit'lik olan 30 bilgi kanalý bulunuyor. ISDNBA, evlerin ve küçük ofislerin Ýnternet'e hýzlý ve sorunsuz baðlanmasý için kullanýlabilir. Ama öncelikle, www.telekom.gov.tr/lsdn/isdnprefix.html adresinden baðlý bulunduðunuz telefon santralinin ISDN desteðinin olup olmadýðýný kontrol etmeniz gerekiyor. 
+
+36) Uydu ile Ýnternet'e baðlanmak iyi bir çözüm mü? 
+1998 yýlýnda, Türkiye'ye ilk defa getirilen uydu sistemlerini test etmiþtik. Testlerimizde bu sistemle saniyede 400 Kbit'lik hýza ulaþmýþtýk. Uydu sistemi, dosya indirmede çok iþe yaramasýna karþýn, yasal düzenleme gereði PC'nizden Ýnternet'e giden bilgiyi 56K modemle iletmeniz gerekiyor. Bu da, sizin modem ve telefon hattýndan kurtulmanýzý engelliyor. Birkaç ay içinde, yasalarýn deðiþmesiyle Ýnternet'e giden ve Ýnternet'ten gelen bilgiyi uyduyla taþýmak mümkün olabilecek. Bu tür sistemlerin, ADSL ve KabloNet olmayan her yerde kullanýlmasý da hýzlý internet isteyenleri memnun edecek bir geliþme. 
+
+37) Yüklediðim bir yazýlýmý kaldýrýrken hata veriyor ve ne yapsam Program Ekle/Kaldýr listesinden silemiyorum. 
+Yazýlýmlarý kaldýrýlýrken bu gibi hatalarýn oluþmasýnýn nedeni kayýt defterindeki yanlýþ giriþler, yazýlýmýn kurulum kayýt dosyasýnýn okunamamasý ya da veri kaybý olabilir. Registry ayarlarýndan bu yazýlýma ait giriþi kaldýrmak mümkün olsa da, System Mechanic ( www.iolo.com) gibi bu iþi yapabilecek yazýlýmlarý kullanmak daha güvenli bir seçenektir, ilk olarak yazýlýmýn bulunduðu klasörü silin. Sonra da System Mechanic'in System sekmesi altýndaki Remove Invalid Uninstall Information ile geçersiz giriþleri kaldýrabilirsiniz. 
+
+38) Arþivimde farklý codec bileþenleri ile kodlanmýþ Avý dosyalarým var. Hepsinin ayný formata çevirmek istiyorum. FlaskMpeg ile bunu yapabilir miyim? 
+FlaskMpeg, adýndan de belli olduðu gibi MpegAvi kodlamasý için tasarlandýðýndan, AVI dosyalarýný yeniden kodlama konusunda çok iþinize yaramayacaktýr. 
+Farklý codec kodlamasýna sahip AVI dosyalarýný yeniden kodlamak için birçok yazýlým bulunsa da, VirtualDub isimli aracý kullanmanýzý tavsiye ederim. www.virtualdub.org adresinden en son sürümünü indirebileceðiniz bu yazýlým, AVI formatýnýn yanýnda Mpeg1 (.mpeg; .dat; .mpv gibi) dosyalarýný da iþleyebilir. FileOpen video file altýndan filmi seçtikten sonra Video ve Audio sekmeleri altýndan sýkýþtýrmada kullanýlacak codec seçimi ve gerekli ayarlarý yapmalýsýnýz. Sou olarak yine File sekmesi altýndan save as AVI ile kodlamaya baþlayabilirsiniz. 
+
+39) Web sitemi arama motorlarýna kaydetmek istiyorum. Her birine ayrý kayýt yaptýrmak ömür törpüsü. Bu iþi en kolay nasýl yapabilirim? 
+Bu iþi profesyonel olarak yapan firmalar olsa da, genelde ücret talep ederler, iþe web sitenizi www.altavista.com'a kaydetmekle baþlayýn. Kayýt iþleminin sonunda, sayfada Featured Sponsor baþlýðýnýn alt bölümünde '25+ Search Fngines FREE!' isimli bir buton göreceksiniz. 
+Bu linki kullanarak www.ineedhits.com sitesinden web sitenizi belli baþlý tüm arama motorlarýna ücretsiz kayýt ettirebilirsiniz. 
+
+40) Mpeg dosyalarým AVI'ye çevirmek Ýstiyorum. Ne gibi araçlara ihtiyacým var? 
+Bu iþlem için en yaygýn kullanýlan ve en uygun yazýlým FlaskMpeg'dir. http://go,to/flaskmpeg adresinden indirebileceðiniz bu kodlama aracý ile Mpeg dosyalarýný AVI formatýna çevirebilirsiniz. Yapmanýz gereken tek þey Öpen sekmesi altýndan kodlamak istediðiniz Mpeg dosyasýný seçip, Select Output Format altýndan AVI Output seçeneðini iþaretleyin. Bu seçeneðin hemen altýnda bulunan Select Output Modüle ile codec bileþenini seçebilir ve ses kodlama ayarlarýný deðiþtirebilirsiniz. FalskMpeg, sisteminizde yüklü olan tüm codec bileþenlerini kullanarak kodlama yapabileceði için, seçenek yelpazesi oldukça geniþleyebilir. 
+
+41) Warez sitelerindeki popup'larý yüzünden bayýlmak üzereyim. Bu sayfalarýn açýlmasýný nasýl engellerim? 
+Bunun iki yolu var. tiki bu küçük reklam canavarlarýný açmamak ya da otomatik olarak kapatmak için kullanýlan yazýlýmlar. 
+Bunlar arasýnda Popup Killer AdsGone (www.adsonegone.com), PopupDummy!, ( www.dummysoftware.com) ve AdDelete (www.addeleie.com) sayýlabilir, ikincisi de lE'nin internet ayarlarý üzerinden engellenecek sitelerin adreslerini elle girmek. 
+Bunun içinse Araçlar-Ýnternet Seçenekleri allýndan Sýnýrlanmýþ Siteler'e girin. Burada popup sitelerinin adreslerini girdiðinizde bir daha sizi rahatsýz edemeyeceklerdir. 
+
+42) Türkçe ses sentezi yapabilen, bir baþka deyiþle Türkçe okuyan bir yazýlým arýyorum. Nereye bakmalýyým? 
+Bu iþi yapabilen bazý yazýlýmlar olsa da, her zaman mükemmel diksiyon beklemek hayal kýrýklýðý yaratabilir. Diksiyonu bozuk ama sayýlarý mükemmel okuyan Voice isimli küçük bir yazýlýmý www.tahribat.com adresinden indirebilirsiniz. 
+Türkçe ses sentezleme üzerine daha profesyonel örneklerden biri olan Geveze ise www.gvz.com.tr adresindedir. Geveze ücretsiz olmasa da, sitede bir deneme sürüþü yapmak mümkün.

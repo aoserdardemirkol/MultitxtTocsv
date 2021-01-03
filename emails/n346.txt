@@ -1,0 +1,23 @@
+Kimden: okuyan07@gmail.com
+Kime: su_samuru@yahoogroups.com
+
+Konu: bilgisayarlarýn birbirini görmesi
+
+Benim, evdeki sistemi tanýmlýyormuþsunuz gibi
+> geldi.
+>   Kablo net kullanýyorum.Modemim 4 lan ve wireless
+> baðlantý saðlýyor.Benim bilgisayarým ve eþimin
+> bilgisayarý lan üzerinden kablolu baðlantý,oðlumun
+> bilgisayarý kablosuz baðlantý.Birbirimizi
+> görüyoruz.Dosya paylaþýyoruz.Ýnternete baðlanýyoruz.
+>   Siz de böyle bir sistem için yardým istiyorsanýz
+> ayarlarýnýz için yapmanýz gereken sadece ayný
+> çalýþma grubu üzerinde olmayý saðlamalýsýnýz.
+>   Masaüstü bilgisayarýn>sað
+> týk>özellikler>bilgisayar adýdeðiþtir.... burada að
+> kurulum sihirbazýnda að kurarken belirledþiðiniz
+> çalýþma grubu adý çýkar.Að üzerindeki tüm
+> bilgisayarlarda ayný grup olmalý.Ekteki resime
+> bakýn.
+>   Kolay gelsin.
+>   Fatih DEMÝRKAN

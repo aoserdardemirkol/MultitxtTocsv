@@ -1,0 +1,69 @@
+Kimden: mustafakartal2012@yahoo.com
+Kime: egezeybek@yahoo.com
+
+Konu: BÜYÜK PRAMÝT VE ALTIN ORAN
+
+Altýn Oran'ýn Elde Edilmesi
+
+Altýn Oran’ý anlatmanýn en iyi yollarýndan biri, iþe bir kare ile baþlamaktýr.
+ 
+
+Bir kareyi tam ortasýndan iki eþit diktörgen oluþturacak þekilde ikiye bölelim.
+
+Dikdörtgenlerin ortak kenarýnýn, karenin tabanýný kestiði noktaya pergelimizi koyalým. Pergelimizi öyle açalým ki, çizeceðimiz daire, karenin karþý köþesine deðsin, yani yarý çapý, bir dikdörtgenin köþegeni olsun.
+
+Sonra, karenin tabanýný, çizdiðimiz daireyle kesiþene kadar uzatalým.
+
+Yeni çýkan þekli bir dikdörtgene tamamladýðýmýzda, karenin yanýnda yeni bir dikdörtgen elde etmiþ olacaðýz.
+
+Ýþte bu yeni dikdörtgenin taban uzunluðunun (B) karenin taban uzunluðuna (A) oraný Altýn Oran’dýr. Karenin taban uzunluðunun (A) büyük dikdörtgenin taban uzunluðuna (C) oraný da Altýn Oran’dýr. A / B = 1.6180339 = Altýn Oran C / A = 1.6180339 = Altýn Oran
+
+Elde ettiðimiz bu dikdörtgen ise, bir Altýn Dikdörtgen’dir. Çünkü kýsa kenarýnýn, uzun kenarýna oraný 1.618 dir, yani Altýn Oran’dýr.
+
+Artýk bu dikdörtgenden her bir kare çýkardýðýmýzda elimizde kalan, bir Altýn Dikdörtgen olacaktýr.
+
+Ýçinden defalarca kareler çýkardýðýmýz bu Altýn Dikdörtgen’in karelerinin kenar uzunluklarýný yarýçap alan bir çember parçasýný her karenin içine çizersek, bir Altýn Spiral elde ederiz. Altýn Spiral, bir çok canlý ve cansýz varlýðýn biçimini ve yapý taþýný oluþturur.
+
+Bu karelerin kenar uzunluklarý sýrasýyla Fibonacci sayýlarýný verir.
+
+[deðiþtir]
+Beþ Kenarlý Simetri
+
+Phi’yi göstermenin bir yolu da, basit bir beþgen kullanmaktýr. Yani, birbiriyle beþ eþit açý oluþturarak birleþen beþ kenar. Basitçe Phi, herhangi bir köþegenin herhangi bir kenara oranýdýr.
+
+AC / AB = 1,618 = PHI
+Beþgenin içine ikinci bir köþegen ([BD]) çizelim. AC ve BD birbirlerini O noktasýnda keseceklerdir.
+
+Böylece her iki çizgi de, bir noktadan ikiye bölünmüþ olacaktýr ve her parça diðeriyle Phi oraný iliþkisi içindedir. Yani AO / OC =Phi, AC / AO = Phi, DO / OB = Phi, BD / DO = Phi. Bir diðeri ile bölünen her köþegende, ayný oran tekrarlanacaktýr.
+Bütün köþegenleri çizdiðimiz zaman ise, beþ köþeli bir yýldýz elde ederiz.
+
+Bu yýldýzýn içinde, ters duran diðer bir beþgen meydana gelir (yeþil). Her köþegen, baþka iki köþegen tarafýndan kesilmiþtir ve her bölüm, daha büyük bölümlerle ve bütünle, Phi oranýný korur. Böylece, içteki ters beþgen, dýþtaki beþgenle de Phi oranýndadýr.
+
+Bir beþgenin içindeki beþ köþeli yýldýz, Pentagram diye adlandýrýlýr ve Pythagoras’ýn kurduðu antik Yunan Matematik Okulu’nun sembolüdür. Eski gizemciler Phi’yi bilirlerdi ve Altýn Oran’ýn fiziksel ve biyolojik dünyamýzýn kurulmasýndaki önemli yerini anlamýþlardý
+Bir beþgenin köþegenlerini birleþtirdiðimizde, iki deðiþik Altýn Üçgen elde ederiz. Mavi üçgenin kenarlarý tabaný ile ve kýrmýzý üçgenin tabaný da kenarý ile Altýn Oran iliþkisi içerisindedir.
+
+Phi, kendini tekrarlayan bir özelliðe de sahiptir. Altýn Orana sahip her þekil, Altýn Oraný kendi içinde sonsuz sayýda tekrarlayabilir. Aþaðýdaki þekilde, her beþgenin içinde meydana gelen pentagramý ve her pentagramýn oluþturduðu beþgeni ve bunun makro kozmik ve mikro kozmik sonsuza kadar Altýn Oraný tekrarlayarak devam ettiðini görebiliriz.
+
+Beþgen, Altýn Oraný açýklamak için oldukça basit ve iyi bir yöntem olmakla birlikte, bu oranýn belirtilmesi gereken çok daha karmaþýk ve anlaþýlmasý zor bir takým özellikleri de vardýr. Altýn Oran daha iyi anlaþýldýkça, biyolojik ve kozmolojik bir çok büyük uygulama örnekleri daha iyi görülebilecektir.
+[deðiþtir]
+Büyük Piramit ve Altýn Oran
+
+
+
+Yandaki diagram, Altýn Oran’ýn bir çember yarýçapý üzerinde nasýl bulunabileceðini gösterir. Kenar uzunluðu dairenin yarýçapýna eþit olan FCGO karesinin FC kenarýnýn orta noktasý olan T’den GO kenarýnýn orta noktasý olan A’ya dik çizilen bir çizgi ile ikiye bölünmesinden elde edilen TCAO dikdörtgeninin açýortayýný (AC) bir ikizkenar üçgenin kenarlarýndan biri olarak kabul edip ABC üçgenini oluþturursak, üçgenin yüksekliðini 1 kabul ettiðimizde (ki bu dairenin yarýçapýdýr) COB üçgeninin OB kenarý, Altýn Oran olan 0.618034 olur.
+
+Bir trigonometrik cetvelden baktýðýmýzda, OCB açýsýnýn 31”43’ ve dolayýsýyla OBC açýsýnýnda 58”17’ olduðunu buluruz. Yukarýdaki diyagram önemini korumak þartýyla bizi baþka bir konstrüksiyona götürür ki, bu belki de Mýsýr’lý rahiplerce çok daha önemli bulunmuþ olabilir.
+
+
+Yandaki diagramda, üçgenin dik açýya ortak kenarlarýndan biri yine yarýçapýn 0.618034’üdür fakat bu defa 1’e yani yarýçapa eþit olan komþu kenar deðil, hipotenüstür. Yine bir trigonometrik tablo yardýmýyla, 0.618034’ün karþý açýsýnýn 38”10’ ve diðer açýnýn da 51”50’ olduðunu görürüz. Pythagor Teoremini kullanarak, OD kenarýnýn uzunluðunun da yarýçapýn 0.78615’i olduðu görülür.
+Bu konstrüksiyonda onu özel yapan iki önemli nokta vardýr. Birincisi; ED kenarýnýn uzunluðu (0.618034) OD kenarýnýn uzunluðuna (0.78615) bölünürse sonuç OD kenarýnýn uzunluðuna (0.78615) eþit çýkmaktadýr. Trigonometrik iliþkiler açýsýndan bu þu anlama gelmektedir: 38”10’ un tanjantý (karþý kenar ÷ komþu kenar), 38”10’ un cosinüsüne (komþu kenar ÷ hipotenüs) eþittir. Tersi, 51”50’ nin kotanjantý, 51”50’ nin sinüsüne eþittir.
+Ýkinci ve belki en önemli husus: OD kenar uzunluðu (0.78615) 4 ile çarpýldýðýnda 3.1446 yý verir ki bu, hemen hemen Pi’ye (3.1416) eþittir. Bu buluþ, 38”10’ açýya sahip bir dik üçgenin Pi oraný ile Altýn Oran fenomeninin çok özel ve ilginç bir kesiþimini kapsadýðýný ortaya koymaktadýr.
+
+Kadim Mýsýr Krallýðý döneminin rahipleri bu üçgenin özelliklerinden haberdar mýydýlar? Bu diagram Büyük Piramit’in dýþ hatlarýný göstermektedir. Bilinçli olarak ya da deðil, bu piramit 38”10’ lýk bir üçgeni ihtiva edecek biçimde inþa edilmiþtir. Yüzeyinin eðimi, çok kesin bir þekilde yerle 51”50’ lýk açý yapmaktadýr. Bu piramit kesitini bir önceki ile kýyaslarsak, BC uzunluðunun yarýçapýn 0.618034’ü olduðunu, AB uzunluðunun 0.78615 olduðunu ve AC uzunluðunun 1 yani yarýçap olduðunu görebiliriz. Keops Piramidi'nin gerçek ölçüleri þöyledir (feet ölçüsünden metreye çevrilmiþtir): AB=146.6088m BC=115.1839m AC=186.3852m).
+Bu noktadan itibaren iþler biraz karmaþýk ama çok çok ilginç bir hale gelmektedir. Görüleceði gibi, BC uzunluðu, piramitin kenar uzunluðunun yarýsýdýr. Bu nedenle piramitin çevresinin uzunluðu BC x 8 dir. Yani piramitin relatif çevresi 0.618034 x 8 = 4.9443 dür. Yine piramitin relatif yüksekliði 0.78615 in bir çemberin yarýçapý olduðu farzedilirse bu çemberin uzunluðu (çevresi) yine 4.9443 olacaktýr. Bu beklenmedik uyum þu þekilde gerçekleþmektedir:
+1)38”10’lýk üçgene gore 0.618034 ÷ 0.78615 = 0.78615 dir (yukarýda bahsedilmiþti). Demek ki, 8 x 0.618034 olarak belirlenen piramit çevresi 8 x 0.78618 x 0.78615 þeklinde de gösterilebilir.
+2)Yine yukarýda, 4 x 0.78615 in Pi ( ) ye çok yakýn bir deðer verdiðini söylemiþtik. Demek ki 2 nin de 8 x 0.78615 e çok yakýn bir deðer olduðu görülür. Böylelikle, yarýçapý 0.78615 olan bir dairenin çevresi þu þekilde ifade edilebilir: C=2 r= (8 x 0.78615) x 0.78615
+
+Bundan þu sonuç çýkmaktadýr: Büyük Piramit, yatay bir düzlem üzerinden ölçüm yapýldýðýnda sahip olduðu kare þeklindeki çevre uzunluðunun aynýna, düþey bir düzlem üzerinde yapýlan ölçümde de bu defa daire þeklinde olmak üzere sahiptir.
+Birkaç ilginç bilgi olmak kaydýyla þu gerçeklere de kýsaca bir göz atalým: Keops Piramidi'nin gerçek taban kenar uzunluðunun (230.3465m) 8 katý ya da çevre uzunluðunun iki katý, boylamlar arasýndaki 1 dakikalýk açýnýn ekvatordaki uzunluðunu vermektedir. Piramitin kenar uzunluðunun, ekvatordaki 1 dakikalýk mesafenin 1/8 ine eþit olmasý ve piramit yüksekliðinin 2 nin 1/8 ine eþit olmasý korelasyonunu irdelememiz, örneklemeyi evrensel boyutlara taþýdýðýmýzda, dünya ile evrenin Pi ve Altýn Oran sabitlerinin iliþkilerini algýlamada küçük bir giriþim, samimi bir baþlangýç sayýlabilir.
+Þunu akýlda tutmak gerekir ki; piramitin kenar uzunluðunun 230.3465m olmasý tamamen tesadüf de olabilir. Fakat karþýlýklý iliþkiler yenilerini doðuruyor ve bunlara yenileri ekleniyorsa, bu korelasyonlarýn kasti düzenlenmiþ olduðu ihtimali de ciddi olarak dikkate alýnmalýdýr.
